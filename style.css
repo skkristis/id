@@ -1,0 +1,64 @@
+/* spalvu palete::
+https://colorhunt.co/palette/1b1a17f0a500e45826e6d5b8
+ */
+
+body {
+  margin: 100px 50px 100px 50px;
+  background-image: url(https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif);
+  background-size: cover;
+  font-family: "Roboto condensed", sans-serif;
+}
+
+.outline {
+  margin: auto;
+  border: 5px solid rgb(228, 88, 38);
+  background-color: rgb(240, 165, 0);
+  border-radius: 5%;
+  padding: 2%;
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.border {
+  border: 5px solid rgb(228, 88, 38);
+  border-radius: 50%;
+  background: rgb(230, 213, 184);
+}
+.box {
+  border: 5px solid rgb(228, 88, 38);
+  background: rgb(230, 213, 184);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20px;
+}
+h1 {
+  color: rgb(27, 26, 23);
+  text-align: center;
+  padding-top: 100;
+}
+img {
+  border-radius: 15%;
+  padding-bottom: 20px;
+}
+h3 {
+  text-align: center;
+}
+li {
+  list-style: none;
+  padding-top: 5px;
+}
+span {
+  color: rgb(228, 88, 38);
+}
+#pasas {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+#hobiai {
+  text-align: center;
+  width: 200px;
+  height: 200px;
+}
